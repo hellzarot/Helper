@@ -1,0 +1,80 @@
+
+body{
+    background-color: rgb(4, 230, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.entete{
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+  
+
+}
+p{
+    font-size: 12px;
+}
+.tableau{
+   
+    display: flex;
+    padding: 30px;
+    max-width: 660px;
+}
+.grille {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f0f;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+    display: block;
+    border: 5px solid #f0f;
+    
+    
+}
+#image{
+
+    height: 100px;
+    width: 100px;
+    display: block;
+    position: absolute;
+    background-image: url("./images/cards.png");
+    background-position: 0px 0px;
+
+}
+
+
+#barreProgression {
+    
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #barre {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }
+
+  .formulaire{
+    border: 2px solid black;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  

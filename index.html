@@ -1,0 +1,50 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeux de mémoire</title>
+    <link rel="stylesheet" href="style/style.scss">
+    <script src="app.js" charset="utf-8"  defer></script>
+</head>
+<body>
+    <div class="enTete">
+        <h1>Jeux de mémoire</h1>
+        <h2>Top 5 Meilleur score : <span id="meilleurResultat"></span></h2>
+        <h3>Score : <span id="resultat"></span></h3>
+    </div>
+  
+
+    <div class="tableau">
+            <div class="grille"> 
+                <h2><span id="temps">120sec</span></h2> 
+                <div id="barreProgression">
+                    <div id="barre"></div>
+                </div>
+            </div>
+   
+        
+
+ 
+    </div>
+   
+
+    <div class="formulaire">
+    <form id="formulaireVictoire" name ="formulaireVictoire" action="./action.php" method="post" onsubmit="DoSubmit();">
+        <label for="pseudo">Pseudo</label>
+        <input type="text" id="pseudo" name="pseudo"><br><br>
+        <input id="temps" name="temps" type="hidden" value=>
+
+     
+        <input id="bouton"type="submit" value="Submit">
+      </form>
+    </div>
+
+
+        
+   
+
+
+   
+</body>
+</html>

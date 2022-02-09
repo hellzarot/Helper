@@ -1,8 +1,10 @@
 # Memory Game
 ## The new game by ju.
+le deploiement c'est ici
+http://memorygame.hqwy7650.odns.fr/
 
 ## Le but est de créer le jeu Memory.
-[_Memory_Game_](https://previews.123rf.com/images/shoosanne/shoosanne1310/shoosanne131000001/23296569-jeu-de-m%C3%A9moire-fruits-vecteur.jpg).
+[_Memory_Game_](http://memorygame.hqwy7650.odns.fr/).
 ### Fonctionnalités
 ● Au commencement du jeu, des cartes sont disposées face cachée à l'écran.
 ● Le joueur doit cliquer sur deux cartes. Si celles-ci sont identiques, la paire est
