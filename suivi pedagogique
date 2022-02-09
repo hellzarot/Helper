@@ -1,0 +1,60 @@
+
+Mercredi 9 février 2022.
+Javascript
+Challenge : Parcours du combattant Algo
+
+
+Etudiant Jean (1)
+Exo 1 : très bien mais tu peux sauter une étape en retournant directement le calcul
+Exo 2 : très bien mais tu pourrais optimiser ce code.
+Exo 3 : bien mais attention aux variables que tu déclares rep n’est pas forcement clair (toujours bien de console log quand tu as des doutes)
+Exo 4 : bien, pourquoi cette fois ci tu ne fais pas de console .log ? plus simple pour toi ?
+Exo 5 (bonus) : c’est dommage tu y étais presque, tu n’as pas réussi à additionner les valeurs dans un tableau contenant plusieurs valeurs, il fallait récupérer ces valeurs pour chaque fois qu’un tableau était plein. Tu as du t’en rendre compte avec tes console log , seul 1 et 7 (1+7=8) ne sont pas ignoré.
+Tu pouvais utiliser aussi a fonction typeof à la place de !NaN. pense à regarder les liens en descriptions du challenge, ils sont toujours en rapport. 
+
+Global:
+C’est bien Jean accroche toi, ça va venir à force de travail, moi non plus Js ce n’est pas ma tasse de thé. N’hésite pas à venir vers moi si tu bloques
+Equipe péda :  Jean maitrise les bases, a un peu de mal sur des fonctions plus compliquées (exo5), à surveiller s’il n’a pas de difficulté plus tard.
+
+
+Etudiant Claude (2)
+Exo 1 : très bien
+Exo 2 :  très bien et optimisé.
+Exo 3 : bien mais tu penses à déclarer les variables avec var avant la boucle. Tu aurais pu optimiser la boucle en stockant la longueur de getExtension avant la boucle. 
+Exo 4 :  ça fonctionne, mais je pense que tu t’es compliqué la vie, cependant la ternaire permet de réduire quelques lignes de codes, bien. 
+Exo 5 (bonus) : tu pouvais peut-être éviter de faire deux fonctions ?
+Global : c’est bien tu comprends et quand tu es motivé tu arrive à faire du code propre et facile à suivre, essayes de continuer sur des fonctions plus complexes, mais continue c’est excellent. 
+
+Equipe péda :  bon élève il devrait arriver à suivre sans problème. 
+
+
+
+
+
+Etudiant Anaïs (3)
+Exo 1 : très bien
+Exo 2 : très bien, optimisation possible
+Exo 3 : un peu compliqué et attention aux variables d’itération si tu en uses trop le code devient illisible. 
+Exo 4 : bien.
+Exo 5 (bonus) : les variables i j p, c’est bien ça marche mais attention, le code peut vite être illisible surtout s’il y a des erreurs.
+Global : c’est bien tu comprends bien ce qui est demandé et arrive à le mettre en place, essaye de faire du code propre à chaque fois et hésite pas à mettre du commentaire.
+
+Equipe péda :  Anaïs comprend bien les notions abordées, elle ne devrait pas avoir de problème à suivre la suite. 
+
+
+Etudiant Alexandra (4)
+Exo 1 : c’est bien, si tu veux tu peux déclarer la variable result et faire le calcul plutôt que modifier directement int.
+Exo 2 : même chose sur la variable et attention == et ===, mais c’est bien continu
+Exo 3 : ha dommage tu as mis un ; à la place d’une, attention au nom de tes variables, essaies de leur donner du sens. 
+Exo 4 : non fait, tu n’as pas compris/réussi à attaquer ou problème de temps ?
+Exo 5 (bonus) : 
+Global : Alexandra tu as du mal mais tu t’accroche, je pense que tu as besoin de revoir un peu les bases, regarde les fiches recap et n’hésite pas à me demander si tu ne comprends pas, ou bien sur le slack avec d’autres étudiant (la communauté est bienveillante) et n’oublies pas, il y a toujours google et la documentation de chaque langage. Courage, il va falloir un peu travailler mais surtout ne te décourage pas, il n’y a pas de raison de pas y arriver.
+
+Equipe péda :  Attention Alexandra a du mal à suivre et va avoir besoin d’aide pour continuer de suivre, il faut qu’elle s’accroche les exo 1 2 réussi mais le 3 elle a pas réussi (une erreur de ; à la place de ,) et 4 et 5 non fait.  Lui conseiller de revoir les fiches recap.
+
+
+Retour correction :
+Je pense qu’il serait pas mal dans la correction de mettre des commentaires un peu plus percutants, avec des phrases pour dire ce que chaque étape de notre code fait.
+Cela peut aider certain étudiant qui n’ont pas tout bien compris à comprendre pourquoi on procède ainsi. Et cela permet en retravaillant ses exos avec correction d’assimiler mieux et arriver à rattraper le retard, même si ça sera fait en cours par le teacher.
+
+Sinon les exos sont bien, ce sont des fonctions essentielles qui peuvent servir au quotidien dans d’autres code.
